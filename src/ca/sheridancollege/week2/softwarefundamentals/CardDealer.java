@@ -11,11 +11,14 @@ package ca.sheridancollege.week2.softwarefundamentals;
  */
 
 //Edited by Nupur Patel
+//Student ID : 991634459
 public class CardDealer 
 {
     public static void main(String[] args)
     {
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
+        
+        Card card1 = new Card();
     }
 }
