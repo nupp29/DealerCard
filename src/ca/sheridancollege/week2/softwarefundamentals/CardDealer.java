@@ -19,6 +19,7 @@ public class CardDealer
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
         
-        Card card1 = new Card();
+        Card card1 = new Card("Hearts", 5);
+        System.out.println("Nupur Patel");
     }
 }
