@@ -21,5 +21,8 @@ public class CardDealer
         
         Card card1 = new Card("Hearts", 5);
         System.out.println("Nupur Patel");
+        
+        Card card2 = new Card("Diamonds",6);
+        
     }
 }
